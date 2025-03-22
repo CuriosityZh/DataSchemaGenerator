@@ -1,0 +1,23 @@
+
+---
+
+### **3. 2_LogScannerLite**  
+**Description:**  
+A minimalistic tool to scan logs and detect repeating issues and warning spikes.
+
+#### **README.md**
+```markdown
+# LogScannerLite - Fast Log Inspection
+
+LogScannerLite helps developers quickly find error patterns in log files using simple text analysis.
+
+## Features
+- Highlights most frequent lines  
+- Quick keyword search  
+- Works with any plain-text log  
+
+## Usage
+```bash
+git clone https://github.com/your-username/2_LogScannerLite.git
+cd 2_LogScannerLite
+python analyze.py log.txt
