@@ -1,0 +1,23 @@
+
+---
+
+### **2. 2_HttpMonitorDash**  
+**Description:**  
+A fast CLI tool that monitors multiple endpoints and shows response stats.
+
+#### **README.md**
+```markdown
+# HttpMonitorDash - Lightweight API Watcher
+
+HttpMonitorDash checks HTTP status codes and latency for specified URLs and returns clean console reports.
+
+## Features
+- Logs code, time, and failures  
+- Lightweight, no dependencies  
+- Works anywhere Python runs  
+
+## Usage
+```bash
+git clone https://github.com/your-username/2_HttpMonitorDash.git
+cd 2_HttpMonitorDash
+python monitor.py
