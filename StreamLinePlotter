@@ -1,0 +1,23 @@
+
+---
+
+### **4. 2_StreamLinePlotter**  
+**Description:**  
+A real-time chart viewer that plots data as it streams into the terminal.
+
+#### **README.md**
+```markdown
+# StreamLinePlotter - Real-Time Line Chart Viewer
+
+StreamLinePlotter visualizes numeric data streams with live updates to a graph.
+
+## Features
+- Real-time graphing  
+- Adjustable speed and range  
+- Easy to integrate  
+
+## Usage
+```bash
+git clone https://github.com/your-username/2_StreamLinePlotter.git
+cd 2_StreamLinePlotter
+python visualize.py
